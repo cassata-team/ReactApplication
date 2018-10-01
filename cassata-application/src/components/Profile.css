@@ -1,0 +1,28 @@
+
+h2{
+    color: black;
+}
+
+.innerDiv
+{
+    padding: 10px;
+    width: 20%;
+    height: 70%;
+    background: #f0f0f0;
+}
+.outerDiv{ 
+    display: "flex";
+}
+.topDiv{
+    margin-top: 10px;
+    height: 110px;
+    width: 80%;
+    border: 1px solid black;
+}
+/* .innerDiv
+{
+    border: 1px solid black;
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 10px;
+} */
